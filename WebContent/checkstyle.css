@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+h3 {
+	text-align: center;
+	padding: 15px;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+table tr td {
+	width: 50px;
+	height: 50px;
+}
+table {
+	border-collapse: collapse;
+}
+.color1 {
+	background-color: blue;
+}
+.color2 {
+	background-color: green;
+}
